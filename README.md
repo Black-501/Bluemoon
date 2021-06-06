@@ -3,7 +3,7 @@
 
 
 ![6ix9ine](https://user-images.githubusercontent.com/81415453/120909993-3e187780-c67b-11eb-8cce-680033b1bd52.PNG)
-# **BLUEMOON COMMAND**
+# **BLUEMOON COMMAND**👑🍭
 
 **apt update**
 
@@ -18,6 +18,11 @@
 **cd Bluemoon**
 
 **python2 Bluemoon.xo**
+# Login Tool
+
+_**USERNAME : BLUE**_ 🏆
+
+_**KEY : MOON**_ 🏆
 
 # Contact
 
